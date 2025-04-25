@@ -3,6 +3,7 @@ layout: post
 title: "Introducing the Results Highlighting"
 categories:
   - feature
+image: /assets/img/screenshot-2025-04-21-result-details-highlight.jpg
 ---
 
 Awakari started to highlight approximate matches in individual results.
