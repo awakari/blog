@@ -4,7 +4,7 @@
 title: Awakari Blog
 #
 author:
-  name: Awakari
+  name: "[Awakari](https://awakari.com)"
   email: awakari@awakari.com
 #
 # The `>` after `description:` means to ignore line-breaks until next key. If
@@ -72,9 +72,9 @@ minima:
    date_format: "%Y-%m-%d"
 
    social_links:
-     - title: Main Site
-       icon: searchengin
-       url: "https://awakari.com"
+#     - title: Main Site
+#       icon: searchengin
+#       url: "https://awakari.com"
      - title: Awakari in GitHub
        icon: github
        url: "https://github.com/awakari"
