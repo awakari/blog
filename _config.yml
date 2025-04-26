@@ -72,21 +72,21 @@ minima:
    date_format: "%Y-%m-%d"
 
    social_links:
-     - title: Site
-       icon: globe
+     - title: Main Site
+       icon: sistrix
        url: "https://awakari.com"
-     - title: GitHub
+     - title: Awakari in GitHub
        icon: github
        url: "https://github.com/awakari"
-     - title: Linkedin
+     - title: Awakari in Linkedin
        icon: linkedin
        url: "https://linkedin.com/company/awakari"
-     - title: Telegram
+     - title: Awakari group in Telegram
        icon: telegram
        url: "https://t.me/awakari"
-     - title: Reddit
+     - title: Awakari in Reddit
        icon: reddit
        url: "https://www.reddit.com/r/awakari/"
-     - title: Patreon
+     - title: Awakari in Patreon
        icon: patreon
        url: "https://www.patreon.com/Awakari"
