@@ -73,7 +73,7 @@ minima:
 
    social_links:
      - title: Main Site
-       icon: sistrix
+       icon: searchengin
        url: "https://awakari.com"
      - title: Awakari in GitHub
        icon: github
