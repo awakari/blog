@@ -72,6 +72,9 @@ minima:
    date_format: "%Y-%m-%d"
 
    social_links:
+     - title: Site
+       icon: globe
+       url: "https://awakari.com"
      - title: GitHub
        icon: github
        url: "https://github.com/awakari"
